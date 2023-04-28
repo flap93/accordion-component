@@ -1,6 +1,6 @@
 # accordion-component
 Practice of html and css, accordion component
-#resources :
+# resources :
 * https://yeun.github.io/open-color/
 * https://heroicons.com/
 # link
